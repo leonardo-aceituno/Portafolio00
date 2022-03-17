@@ -25,10 +25,6 @@
 				></b-img>
 			</div>
 		</div>
-		<!-- 
-			src="https://cdn.dribbble.com/users/320114/screenshots/2575134/code_dribbble.gif"
-			src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-		/> -->
 	</b-container>
 </template>
 
